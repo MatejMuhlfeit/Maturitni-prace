@@ -1,0 +1,9 @@
+{
+  "name": "the-goods-must-flow",
+  "version": "0.1.0",
+  "title": "The Goods Must Flow",
+  "author": "Mühlfeit M.",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.0"],
+  "description": "Overhaul mod, highly based around chemistry, fluids, and overflow mechanics"
+}
